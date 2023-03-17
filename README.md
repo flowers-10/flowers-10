@@ -7,5 +7,5 @@
 
 ![](http://124.223.168.27:8889//uploads/1678264316326.png)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowers-10&hide=html" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowers-10&hide=css" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=flowers-10&show_icons=true" />
