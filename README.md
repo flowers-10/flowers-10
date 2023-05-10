@@ -3,7 +3,7 @@
 - :orange_book: 技术博客：[https://neowho.blog.csdn.net](https://blog.csdn.net/m0_68324632?type=blog)
 -  :hammer:  个人网站：[http://www.neowho.cc](http://www.godsplan.top/apps/allapps)
 - 📫 How to reach me: mgaligigi@163.com
-- 😄 最喜欢的明星： 蔡徐坤
+- 😄 最喜欢的**英雄**： 蔡徐坤
 
 ![](http://124.223.168.27:8889//uploads/1678264316326.png)
 
