@@ -1,6 +1,6 @@
 ### 你好,世界 👋，给我项目点个start证明你不是一个爬虫
 
-- :orange_book: 技术博客：[[https://neowho.blog.csdn.net](https://blog.csdn.net/m0_68324632?type=blog)](https://blog.csdn.net/m0_68324632?type=blog)
+- :orange_book: 技术博客：[https://blog.csdn.net/m0_68324632?type=blog](https://blog.csdn.net/m0_68324632?type=blog)
 -  :hammer:  个人网站：[http://www.godsplan.top](http://www.godsplan.top/apps/allapps)
 - 📫 How to reach me: mgaligigi@163.com
 - 😄 最喜欢的**英雄**： 蔡徐坤
