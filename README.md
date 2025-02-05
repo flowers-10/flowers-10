@@ -7,8 +7,6 @@
 
 ### 你好,世界 👋
 
-- :orange_book: Blog：[https://blog.csdn.net/m0_68324632?type=blog](https://blog.csdn.net/m0_68324632?type=blog)
--  :hammer: Home：[http://www.godsplan.top](http://www.godsplan.top/apps/allapps)
 - 📫 How to reach me: mgaligigi@163.com
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowers-10&hide=css" />
