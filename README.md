@@ -9,8 +9,4 @@
 
 - 📫 How to reach me: mgaligigi@163.com
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowers-10&hide=css" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=flowers-10&show_icons=true" />
-
-
 
